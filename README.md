@@ -229,8 +229,8 @@ id  teacher_name    id      name     teacher_id
 1	   Joe		     2       Bob          1
 1	   Joe	  	     1       Dave         1
 1	   Joe	  	     3       Jess         1
-2	   Steven	     5       Rob          1
-2	   Steven	     4       Sara         1
+2	   Steven	     5       Rob          2
+2	   Steven	     4       Sara         2
 3	   Jeff	    	 NULL    NULL         NULL
 ```
 
@@ -251,8 +251,8 @@ id    teacher_name   id      name     teacher_id
 1	     Joe		 2       Bob          1
 1	     Joe	  	 1       Dave         1
 1	     Joe	  	 3       Jess         1
-2	     Steven	     5       Rob          1
-2	     Steven	     4       Sara         1
+2	     Steven	     5       Rob          2
+2	     Steven	     4       Sara         2
 NULL     NULL	     6       Alexis       NULL
 ```
 
@@ -270,9 +270,9 @@ id    teacher_name   id      name     teacher_id
 ---   ------------  ----    ------    -----------
 1	     Joe		 2       Bob          1
 1	     Joe	  	 1       Dave         1
-1	     Steven	  	 3       Jess         1
-2	     Steven	     5       Rob          1
-2	     Steven	     4       Sara         1
+1	     Joe	  	 3       Jess         1
+2	     Steven	     5       Rob          2
+2	     Steven	     4       Sara         2
 3	     Jeff	    NULL     NULL        NULL
 NULL	 NULL	     6		 Alexis	     NULL
 ```
@@ -280,3 +280,5 @@ NULL	 NULL	     6		 Alexis	     NULL
 <a href='https://learn.co/lessons/sql-complex-joins-readme' data-visibility='hidden'>View this lesson on Learn.co</a>
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/sql-complex-joins-readme'>SQL Complex Joins</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/sql-complex-joins-readme'>SQL Complex Joins</a> on Learn.co and start learning to code for free.</p>
