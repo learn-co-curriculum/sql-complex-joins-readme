@@ -47,7 +47,7 @@ Let's look at an inner join.
 SELECT *
 FROM Teachers
 INNER JOIN Students
-ON Teacher.teacher_id = Student.teacher_id;
+ON Teachers.teacher_id = Students.teacher_id;
 ```
 
 This query returns only the teacher with the `id = 1` because student 2 is in the first teacher's class.
@@ -280,3 +280,5 @@ NULL	 NULL	     6		 Alexis	     NULL
 <a href='https://learn.co/lessons/sql-complex-joins-readme' data-visibility='hidden'>View this lesson on Learn.co</a>
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/sql-complex-joins-readme'>SQL Complex Joins</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/sql-complex-joins-readme'>SQL Complex Joins</a> on Learn.co and start learning to code for free.</p>
